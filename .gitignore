@@ -1,0 +1,13 @@
+logs/*
+tmp/*
+bk_*
+*.log
+*.bk
+*.bak
+*_bk
+
+*.code-workspace
+*Thumbs.db
+deploy.bat
+
+!.gitkeep
